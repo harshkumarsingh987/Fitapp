@@ -89,4 +89,4 @@ Open http://localhost:3000 — sign up with email or Google, then start logging 
 - Set a strong random `JWT_SECRET`.
 - Set `CLIENT_URL` (backend) and `REACT_APP_API_URL` (frontend) to your deployed URLs.
 - Add your production domain to the Google OAuth "Authorized JavaScript origins".
-- I can add new message 
+  
